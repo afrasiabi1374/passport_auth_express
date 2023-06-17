@@ -1,0 +1,7 @@
+{
+  "name": "passport",
+  "version": "1.0.0",
+  "main": "app.js",
+  "author": "ali",
+  "license": "MIT"
+}
